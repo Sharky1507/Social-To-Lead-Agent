@@ -17,6 +17,9 @@ A conversational AI agent for AutoStream, a SaaS product providing automated vid
 - **Gemini 2.5 Flash** - Language model
 - **Streamlit** - Web interface
 
+<img width="1171" height="771" alt="image" src="https://github.com/user-attachments/assets/5cd52cc2-9d8c-4130-bb5b-903841a6ae6f" />
+
+
 ## Setup
 
 1. **Create virtual environment:**
