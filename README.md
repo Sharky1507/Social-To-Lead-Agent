@@ -2,6 +2,9 @@
 
 A conversational AI agent for AutoStream, a SaaS product providing automated video editing tools for content creators.
 
+## Demo
+https://drive.google.com/drive/u/0/folders/1OkPtNZpvSaJ2ZQMKi5R1C8q4xcpBdgBc
+
 ## Features
 
 - **Intent Classification**: Identifies user intent (greeting, inquiry, high-intent lead)
