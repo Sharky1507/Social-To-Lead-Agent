@@ -40,7 +40,7 @@ A conversational AI agent for AutoStream, a SaaS product providing automated vid
 
 ## Usage
 
-### Streamlit Web Interface (Recommended)
+### Streamlit Web Interface
 ```bash
 .venv\Scripts\activate
 streamlit run app.py
